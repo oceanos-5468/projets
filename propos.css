@@ -1,0 +1,29 @@
+
+section
+{ text-align: justify;
+    margin-top: 5%;
+
+}
+body
+{
+
+background-image:url("fond.jpg");
+}
+#conteneur
+{
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+border: double;
+border-radius:  10px 10px 10px; 
+border-color: white;
+background-color:#41fcc4;
+}
+.a
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    border: double;
+    border-radius:  10px 10px 10px;  
+}
