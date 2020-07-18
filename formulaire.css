@@ -1,0 +1,21 @@
+body
+{
+   
+    background-attachment: fixed;
+    background-image: url("site31_huaweiNova7i.jpg");
+    
+}
+
+.h1
+{
+    text-align: center; 
+    border:solid; 
+    border-radius: 20px 20px 20px; 
+    background-color: antiquewhite;
+    border-bottom: antiquewhite;
+}
+.val:hover
+{
+	
+	color: turquoise;
+}

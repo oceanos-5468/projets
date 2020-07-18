@@ -1,0 +1,104 @@
+/*h1
+{
+    color: green;
+   border: hidden green;
+    background-color: #d1cdbe;
+   text-align: center;
+   width = 200px;
+   height: 150px;*/
+   /*background-color: aquamarine;
+   transition-property:background-color;
+   transation-duration: 1s;
+   transition-delay: 1s;*/
+
+/*a:hover
+{
+   color: red;
+}
+a
+{
+   border: double green;
+   border-radius: 10px 10px 10px;
+}
+a
+{
+    /*display: nowrap;*/
+/*justify-content: center;
+}
+
+.f
+{
+	border: double;
+	border-radius:  10px 10px 10px; 
+	border-color: green;
+}*/
+
+/*body
+{
+    background-color: azure;
+}*/
+
+menu
+{
+    background-color: #000000;
+}
+
+.header
+{
+    width: 100%;
+    margin-left: 0%;
+    margin-right: 0%;
+    height: 70px;
+    line-height: 70px;
+    background-color: black;
+    background-image: url("logo1.png");
+background-attachment: fixed; /* Le fond restera fixe */
+background-repeat: no-repeat; /* Le fond ne sera pas répété */
+background-position: top left;
+
+}
+
+.header .header-logo
+{
+    color: #ffffff;
+    float: left;
+    margin-left: 30px;
+}
+
+.header .header-menu
+{
+    float: right;
+    margin-left: 35px;
+   border: 100%;
+}
+.header .header-menu a
+{
+    margin-right: 20px;
+    color:#ffffff;
+    border:100%;
+}
+
+#conteneur
+{
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+border: double;
+border-radius:  10px 10px 10px; 
+border-color: rgb(255, 255, 255);
+background-color: #41fcc4;
+}
+body
+{
+background-color:black;
+}
+.footer
+{
+    width: 100%;
+    margin-left: 0%;
+    margin-right: 0%;
+    height: 40px;
+    line-height: 70px;
+    background-color: white;
+
+}
